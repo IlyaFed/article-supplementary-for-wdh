@@ -5,7 +5,7 @@ Article link:
 ## Lammps_eFF/
   input data for repeating calculation of Fig. 1
  
-## CPMD_path/
+## CPMD_patch/
   source file to improve calculations:
   TODO
   
